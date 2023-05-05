@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🌱 I’m currently learning competitive programming.
+- 🌱 I’m currently learning Blockchain <3.
 -  👾I start coding at Sep 4 2021
 
 ### EDUCATION
