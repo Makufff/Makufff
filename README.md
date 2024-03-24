@@ -5,7 +5,6 @@
 - 👾 I start coding at Sep 4 2021
 - 🌱 Goal 2024 :
    - [ ] SuperAI SS4
-   - [ ] AIBuilder 2024
    - [ ] Master Rank in Kaggle 
 
 ### EDUCATION
