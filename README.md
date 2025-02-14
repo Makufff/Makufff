@@ -61,9 +61,10 @@
 
 <div align="center">
 🎵 **Music I Enjoy**
-| 🎸 Rock, Jazz, and Lofi
-| 🎧 Favorite Artists: Nujabes, Daft Punk, John Mayer
-| 🎼 Sometimes I create my own music!
+| 🎸 Rock, Jazz, and Lofi 
+| 🎧 Favorite Artists: Taylor swift , Carly Rae Jepsen
+<br> 🎼 Because the song you gave me made me like the music!🐈‍⬛🀦
+<br> 少しでも会えたら嬉しいな
 </div>
 
 ###
