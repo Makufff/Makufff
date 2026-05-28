@@ -64,17 +64,20 @@ fn main() {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                  🎧  Now Playing                     ║
-╠══════════════════════════════════════════════════════╣
-║  🎸  Rock · Jazz · Lofi                             ║
-║  🎤  Taylor Swift · Carly Rae Jepsen                ║
-║  🎼  Because the song you gave me made me love       ║
-║      music! 🐈‍⬛🀦                                  ║
-║  ✨  少しでも会えたら嬉しいな                        ║
-╚══════════════════════════════════════════════════════╝
-```
+![Rock](https://img.shields.io/badge/🎸_Rock-0d1117?style=for-the-badge)
+![Jazz](https://img.shields.io/badge/🎷_Jazz-0d1117?style=for-the-badge)
+![Lofi](https://img.shields.io/badge/🎵_Lofi-0d1117?style=for-the-badge)
+
+<br/>
+
+![Taylor Swift](https://img.shields.io/badge/Taylor_Swift-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Carly Rae Jepsen](https://img.shields.io/badge/Carly_Rae_Jepsen-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+<br/>
+
+> 🎼 *Because the song you gave me made me love music!* 🐈‍⬛🀦
+>
+> ✨ 少しでも会えたら嬉しいな
 
 </div>
 
